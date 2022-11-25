@@ -120,6 +120,7 @@ class Explosion {
     );
   }
 }
+
 let particles = [];
 class Particle {
   constructor(x, y, size, color) {
